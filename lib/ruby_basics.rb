@@ -3,3 +3,8 @@ def assign_variable (value)
   return "#{value}"
 end
 assign_variable("Bob")
+
+def argue (phrase)
+  return "#{phrase}"
+end
+argue ( "I'm right and you are wrong!")
