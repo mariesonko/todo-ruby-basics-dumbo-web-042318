@@ -22,5 +22,5 @@ return_a_value
 
 def last_evaluated_value
   "expert"
-end 
+end
 last_evaluated_value
