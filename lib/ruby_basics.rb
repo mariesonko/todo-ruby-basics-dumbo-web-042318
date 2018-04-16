@@ -1,5 +1,5 @@
 
 def assign_variable (value)
   return "#{value}"
-end 
+end
 assign_variable("Bob")
