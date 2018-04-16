@@ -10,6 +10,7 @@ end
 argue ( "I'm right and you are wrong!")
 
 def greeting (greeting, name)
-  return "#{greeting} #{name}"
+  return "#{greeting}"
+  return "#{name}"
 end
-greeting ("Hi there, ","Bobby!")
+greeting("Hi there, ", "Bobby!")
