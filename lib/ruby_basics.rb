@@ -19,3 +19,8 @@ def return_a_value
   return "Nice"
 end
 return_a_value
+
+def last_evaluated_value
+  "expert"
+end 
+last_evaluated_value
