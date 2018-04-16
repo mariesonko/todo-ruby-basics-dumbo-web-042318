@@ -1,14 +1,18 @@
 def division(num1, num2)
- 
+
 end
+
 
 def assign_variable(value)
-  
+return "#{value}"
 end
+assign_variable("Bob")
 
-def argue
-  
+def argue(phrase)
+  phrase = "I'm right and you are wrong!"
+  return phrase
 end
+argue
 
 def greeting
 
