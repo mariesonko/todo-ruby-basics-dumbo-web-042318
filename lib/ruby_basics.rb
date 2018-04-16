@@ -8,3 +8,8 @@ def argue (phrase)
   return "#{phrase}"
 end
 argue ( "I'm right and you are wrong!")
+
+def greeting (greeting, name)
+  return "#{greeting} #{name}"
+end
+greeting ("Hi there, ","Bobby!")
