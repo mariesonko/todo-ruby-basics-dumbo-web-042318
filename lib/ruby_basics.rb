@@ -2,8 +2,8 @@ def division (num1, num2)
 quotient = num1/num2
 return quotient
 end
-division 
-  
+division
+
 def assign_variable (value)
   return "#{value}"
 end
